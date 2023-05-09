@@ -1,0 +1,15 @@
+.main-area {
+    position: absolute;
+    height: 91vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+
+}
+
+.divider {
+    flex-grow: 7;
+    background-color: transparent;
+    height: 100%;
+}
